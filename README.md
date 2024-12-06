@@ -56,5 +56,3 @@ Dataset 2: https://paperswithcode.com/dataset/iam
 
 
 
-
-
